@@ -1,0 +1,200 @@
+,start_dt,end_dt,weeks,loc_city_orig,loc_city,loc_st,prog_type,recommend,count,precip,maxtemp,meantemp,mintemp,days
+0,6/7/15,6/27/15,3,Del Rio,Del Rio,TX,Crew,9.6,5,0.17,90.86,81.90,72.52,20
+1,6/8/15,6/22/15,2,Napa,Napa,CA,Crew,8.857142857,7,0.01,77.13,64.40,51.20,14
+2,6/8/15,7/3/15,4,Yosemite National Park,Yosemite National Park,CA,Crew,8.5,4,0.00,84.23,74.81,65.15,25
+3,6/8/15,7/5/15,4,San Antonio,San Antonio,TX,Crew,8.2,5,0.20,89.75,82.54,74.79,27
+4,6/10/15,7/6/15,4,Seward,Seward,AK,Crew,10,1,0.07,63.22,56.41,50.59,26
+5,6/15/15,6/30/15,3,Olympia,Olympia,WA,Crew,8.5,2,0.00,82.38,67.38,51.94,15
+6,6/15/15,7/5/15,3,St. Marys,St. Marys,GA,Crew,9.428571429,7,0.00,93.67,85.19,76.57,20
+7,6/15/15,7/12/15,4,Denali Park,Denali Natl Park,AK,Crew,9.8,5,0.12,69.71,58.04,46.39,27
+8,6/15/15,7/12/15,4,International Falls,International Falls,MN,Crew,9.666666667,3,0.07,75.50,61.46,46.89,27
+9,6/15/15,7/12/15,4,Kennesaw,Kennesaw,GA,Crew,9.333333333,3,0.00,87.74,80.11,72.78,27
+10,6/15/15,7/12/15,4,Spruce Pine,Spruce Pine,NC,Crew,9,3,0.04,89.93,77.04,64.07,27
+11,6/26/15,7/10/15,2,Houston,Houston,TX,Community,8.8,10,0.27,93.07,84.67,76.13,14
+12,6/28/15,7/11/15,2,Anchorage,Anchorage,AK,Crew,9,3,0.02,68.07,61.14,54.71,13
+13,6/29/15,7/23/15,4,Lovell,Lovell,WY,Internships,9,1,0.00,88.68,74.32,59.52,24
+14,6/29/15,7/26/15,4,Chinle,Chinle,AZ,Crew,10,1,0.07,84.11,68.57,54.07,27
+15,7/5/15,7/19/15,2,Ashford,Ashford,WA,Community,10,3,0.00,82.73,69.00,55.40,14
+16,7/5/15,7/19/15,2,Port Angeles,Port Angeles,WA,Crew,9,2,0.01,72.87,63.27,54.80,14
+17,7/6/15,7/17/15,2,Minturn,Minturn,CO,Internships,5,1,0.12,58.58,51.25,44.00,11
+18,7/6/15,7/26/15,3,Broad Run,Broad Run,VA,Crew,9.4,5,0.01,86.05,76.38,67.38,20
+19,7/6/15,7/26/15,3,Hingham,Hingham,MA,Crew,9.5,2,0.07,80.48,73.57,65.95,20
+20,7/6/15,7/26/15,3,Morristown,Morristown,NJ,Crew,10,5,0.00,86.76,75.38,63.95,20
+21,7/6/15,8/2/15,4,Anchorage,Anchorage,AK,Crew,9.625,8,0.12,68.82,61.93,55.71,27
+22,7/7/15,7/24/15,3,Titusville,Titusville,FL,Crew,9,1,0.00,90.22,81.22,72.28,17
+23,7/7/15,7/25/15,3,Sumner,Sumner,MO,Internships,7,1,0.23,86.47,77.58,69.21,18
+24,7/10/15,8/7/15,4,Redwood City,Redwood City,CA,Community,10,2,0.00,77.45,69.03,60.59,28
+25,7/13/15,7/21/15,2,Franklin,Franklin,NC,Crew,5,1,0.10,84.33,72.67,61.67,8
+26,7/13/15,8/2/15,3,Girdwood,Girdwood,AK,Crew,9.857142857,7,0.41,63.14,54.81,47.33,20
+27,7/13/15,8/2/15,3,Mahwah,Mahwah,NJ,Crew,10,3,0.01,87.43,76.90,67.05,20
+28,7/13/15,8/2/15,3,Moose,Moose,WY,Crew,8.8,5,0.05,74.67,58.52,42.19,20
+29,7/13/15,8/2/15,3,Wellfleet,Wellfleet,MA,Crew,9.5,4,0.21,78.76,71.48,63.38,20
+30,7/13/15,8/7/15,4,Chicago,Chicago,IL,Community,10,1,0.10,84.88,75.15,65.00,25
+31,7/13/15,8/7/15,4,Houston,Houston,TX,Community,9.4,5,0.00,99.00,88.73,78.46,25
+32,7/13/15,8/7/15,4,Yosemite,Yosemite,CA,Crew,9.6,5,0.00,84.58,74.88,65.00,25
+33,7/13/15,8/9/15,4,Bedford,Bedford,VA,Crew,9.75,4,0.08,85.57,75.57,65.00,27
+34,7/13/15,8/9/15,4,Copper Center,Copper Center,AK,Crew,7.714285714,7,0.02,71.75,58.68,45.29,27
+35,7/13/15,8/9/15,4,Franklin,Franklin,NC,Crew,8,1,0.05,84.46,72.54,60.89,27
+36,7/13/15,8/9/15,4,Grand Lake,Grand Lake,CO,Crew,8.666666667,3,0.01,87.54,73.36,59.25,27
+37,7/13/15,8/9/15,4,Moose,Moose,WY,Crew,10,3,0.05,73.89,59.04,43.96,27
+38,7/13/15,8/9/15,4,Port Angeles,Port Angeles,WA,Crew,9,2,0.00,72.52,62.37,53.07,27
+39,7/13/15,8/9/15,4,Sedro-Woolley,Sedro Woolley,WA,Crew,10,2,0.03,75.96,66.50,56.68,27
+40,7/13/15,8/9/15,4,Soldotna,Soldotna,AK,Crew,6,1,0.04,63.89,57.61,51.82,27
+41,7/13/15,8/9/15,4,West Glacier,Kalispell,MT,Crew,10,3,0.02,73.30,61.75,52.75,27
+42,7/13/15,8/9/15,4,Woodstock,Woodstock,VT,Crew,9.8,5,0.07,83.00,70.04,57.61,27
+43,7/14/15,8/11/15,4,Oakland,Oakland,CA,Community,4,1,0.00,74.66,67.62,60.03,28
+44,7/15/15,7/28/15,2,Socorro,Socorro,NM,Crew,10,2,0.03,91.64,78.07,64.43,13
+45,7/15/15,8/7/15,4,Pittsburgh,Pittsburgh,PA,Community,10,1,0.04,82.88,73.50,64.88,23
+46,7/17/15,8/9/15,4,Milwaukee,Milwaukee,WI,Community,6,1,0.03,82.38,74.04,65.04,23
+47,7/20/15,8/7/15,3,Milwaukee,Milwaukee,WI,Community,8,1,0.03,82.79,74.05,64.58,18
+48,7/20/15,8/16/15,4,Port Alsworth,Port Alsworth,AK,Crew,10,4,0.01,66.57,58.36,51.43,27
+49,7/21/15,8/7/15,3,Pittsburgh,Pittsburgh,PA,Community,8,3,0.05,82.83,73.28,64.78,17
+50,7/21/15,8/11/15,3,Port Angeles,Port Angeles,WA,Crew,8.666666667,6,0.00,71.11,61.47,52.63,21
+51,7/25/15,8/21/15,4,Cherokee,Cherokee,NC,Crew,10,3,0.04,83.11,71.54,60.07,27
+52,7/26/15,8/8/15,2,Concord,Concord,NH,Community,8.333333333,6,0.04,86.64,72.36,57.64,13
+53,7/26/15,8/9/15,2,Ashford,Ashford,WA,Community,10,1,0.00,83.40,68.13,52.60,14
+54,7/26/15,8/9/15,2,Port Angeles,Port Angeles,WA,Crew,8.5,4,0.00,73.21,62.21,52.21,14
+55,7/27/15,8/8/15,2,Harpers Ferry,Harpers Ferry,WV,Crew,8,1,0.03,86.69,75.54,63.92,12
+56,7/27/15,8/9/15,2,Springdale,Springdale,UT,Crew,10,3,0.03,90.71,74.57,58.50,13
+57,7/27/15,8/12/15,3,Nashville,Nashville,TN,Internships,8,1,0.15,91.59,80.82,69.53,16
+58,7/27/15,8/16/15,3,Harpers Ferry,Harpers Ferry,WV,Crew,10,5,0.03,86.14,74.90,63.10,20
+59,7/27/15,8/16/15,3,Pennsville,Pennsville,NJ,Crew,10,1,0.08,86.43,76.95,66.95,20
+60,7/27/15,8/18/15,4,Floyd,Floyd,VA,Crew,7,1,0.18,83.13,72.57,61.52,22
+61,7/27/15,8/19/15,4,Bridgeport,Bridgeport,AL,Crew,5,1,0.13,88.58,78.17,68.00,23
+62,7/27/15,8/21/15,4,Big Sur,Big Sur,CA,Internships,10,1,0.00,73.27,66.46,59.23,25
+63,7/27/15,8/23/15,4,Big Sur,Big Sur,CA,Crew,10,2,0.00,73.18,66.46,59.36,27
+64,7/27/15,8/23/15,4,Bridgeport,Bridgeport,AL,Crew,9.5,2,0.13,87.71,77.82,68.14,27
+65,7/27/15,8/23/15,4,Floyd,Floyd,VA,Crew,8.5,2,0.15,82.86,72.43,61.54,27
+66,7/27/15,8/23/15,4,Laurel Springs,Laurel Springs,NC,Crew,10,2,0.08,77.96,69.79,61.64,27
+67,8/5/15,9/1/15,4,White River Junction,White River Junction,VT,Internships,7,1,0.11,82.14,69.57,57.96,27
+68,8/10/15,8/16/15,1,Humble,Humble,TX,Community,9,6,0.13,100.29,87.86,76.00,6
+69,8/12/15,8/14/15,1,Concord,Concord,NH,Community,9,2,0.00,84.67,70.33,55.33,2
+70,8/16/15,8/30/15,2,Ashford,Ashford,WA,Community,10,1,0.07,79.27,65.00,50.73,14
+71,8/16/15,8/30/15,2,Port Angeles,Port Angeles,WA,Crew,9.333333333,3,0.04,73.33,61.93,51.40,14
+72,8/19/15,8/28/15,2,Chicago,Chicago,IL,Community,9.333333333,3,0.00,75.10,66.60,57.40,9
+73,8/24/15,9/20/15,4,Basking Ridge,Basking Ridge,NJ,Community,9.666666667,3,0.04,85.86,71.57,57.89,27
+74,9/6/15,9/12/15,1,Porter,Porter County Municipal,IN,Corps,8,1,0.12,79.14,69.71,60.14,6
+75,9/8/15,9/28/15,3,Brooklyn,Brooklyn,NY,Community,10,1,0.00,80.05,73.38,66.71,20
+76,9/11/15,9/28/15,3,Brooklyn,Brooklyn,NY,Community,10,2,0.00,79.00,72.33,65.72,17
+77,9/14/15,10/9/15,4,Washington,Washington,DC,Community,10,2,0.16,76.08,68.35,60.12,25
+78,9/14/15,10/11/15,4,Medora,Medora,ND,Leader Crew,10,1,0.02,70.54,57.00,43.43,27
+79,9/14/15,10/11/15,4,Porter,Porter County Municipal,IN,Leader Crew,10,2,0.02,73.43,62.46,51.11,27
+80,9/18/15,10/11/15,4,Brooklyn,Brooklyn,NY,Community,10,1,0.00,73.13,67.04,60.79,23
+81,9/21/15,10/4/15,2,Alamogordo,Alamogordo,NM,Leader Crew,8,1,0.04,86.71,73.43,60.21,13
+82,9/23/15,9/30/15,1,Fort Jones,Fort Jones,CA,Internships,10,1,0.00,84.38,64.63,44.38,7
+83,9/29/15,10/11/15,2,Brooklyn,Brooklyn,NY,Community,9,1,0.00,69.69,63.62,57.38,12
+84,10/12/15,11/6/15,4,New York,New York,NY,Community,10,4,0.06,65.65,58.31,50.54,25
+85,11/8/15,11/21/15,2,Prescott,Prescott,AZ,Leader Crew,9,1,0.01,59.21,44.50,29.50,13
+86,1/4/16,1/29/16,4,bandon,bandon,OR,Internships,5,1,0.45,56.88,51.31,45.12,25
+87,2/7/16,3/5/16,4,Alamogordo,Alamogordo,NM,Leader Crew,10,1,0.00,70.75,52.96,35.21,27
+88,3/5/16,3/12/16,1,Moose,Moose,WY,Internships,10,1,0.02,41.88,32.13,22.63,7
+89,3/6/16,3/12/16,1,Moose,Moose,WY,Internships,9.888888889,9,0.03,41.29,32.14,23.14,6
+90,3/13/16,3/19/16,1,Seward,Seward,AK,Internships,9.454545455,11,0.02,42.71,35.71,30.29,6
+91,4/4/16,5/1/16,4,Porter,Porter County Municipal,IN,Leader Crew,10,2,0.10,59.86,49.36,38.54,27
+92,4/9/16,5/6/16,4,Milton,Milton,FL,Internships,10,1,0.07,78.00,67.82,58.21,27
+93,4/15/16,4/17/16,1,Anchorage,Anchorage,AK,Crew,9,2,0.00,54.00,44.67,36.00,2
+94,4/18/16,4/29/16,2,Washington,Washington,DC,Community,9,1,0.07,73.08,63.25,53.00,11
+95,5/13/16,5/23/16,2,Brooklyn,Brooklyn,NY,Community,9.5,2,0.03,67.91,61.18,54.00,10
+96,5/14/16,6/4/16,3,Brooklyn,Brooklyn,NY,Community,9,3,0.08,75.36,67.86,60.14,21
+97,5/23/16,6/14/16,4,Martinez,Martinez,CA,Internships,7,1,0.00,85.00,70.83,55.96,22
+98,6/6/16,7/3/16,4,Seward,Seward,AK,Crew,9.666666667,3,0.07,62.64,55.39,48.79,27
+99,6/13/16,7/1/16,3,Albuquerque,Albuquerque,NM,Community,10,2,0.01,94.00,80.42,66.47,18
+100,6/13/16,7/3/16,3,San Antonio,San Antonio,TX,Crew,10,2,0.00,93.57,84.76,75.62,20
+101,6/13/16,7/3/16,3,St. Marys,St. Marys,GA,Crew,9.2,5,0.00,90.62,83.81,76.81,20
+102,6/13/16,7/3/16,3,Whitmire,Whitmire,SC,Crew,9.8,5,0.02,92.33,80.81,69.57,20
+103,6/13/16,7/10/16,4,Denali Park,Denali Natl Park,AK,Crew,9.666666667,3,0.01,65.47,56.29,46.82,27
+104,6/13/16,7/10/16,4,Harrisonburg,Harrisonburg,VA,Crew,10,3,0.16,80.68,70.18,59.89,27
+105,6/13/16,7/10/16,4,Kennesaw,Kennesaw,GA,Crew,9.75,4,0.02,89.36,80.29,71.21,27
+106,6/13/16,7/10/16,4,Port Alsworth,Port Alsworth,AK,Crew,8.857142857,7,0.00,64.64,58.39,53.50,27
+107,6/20/16,7/13/16,4,Skagway,Skagway,AK,Internships,10,1,0.01,68.88,62.00,55.75,23
+108,6/20/16,7/17/16,4,Chinle,Chinle,AZ,Crew,10,1,0.01,89.46,73.36,58.18,27
+109,7/5/16,7/29/16,4,Vallejo,Vallejo,CA,Community,9.2,5,0.00,79.84,65.64,51.00,24
+110,7/5/16,8/2/16,4,Houston,Houston,TX,Community,8.909090909,11,0.13,95.86,87.41,78.86,28
+111,7/5/16,8/2/16,4,Oyster Bay,Oyster Bay,NY,Community,8.25,4,0.11,84.93,77.45,70.45,28
+112,7/6/16,7/20/16,2,Ashford,Ashford,WA,Community,10,1,0.00,73.27,63.93,54.60,14
+113,7/6/16,7/20/16,2,Vancouver,Vancouver,WA,Crew,9.8,5,0.02,75.13,66.67,57.67,14
+114,7/6/16,7/26/16,3,Colville,Colville,WA,Crew,9.333333333,3,0.10,79.19,62.90,46.19,20
+115,7/7/16,7/19/16,2,Yellowstone NP,Yellowstone Natl Park,WY,Crew,10,1,0.05,68.54,51.69,34.54,12
+116,7/8/16,7/13/16,1,Oakland,Oakland,CA,Corps,5,1,0.00,73.83,65.50,56.67,5
+117,7/10/16,7/29/16,3,Port Angeles,Port Angeles,WA,Crew,10,5,0.00,70.15,61.45,53.80,19
+118,7/11/16,7/15/16,1,McLean,McLean,VA,Community,10,1,0.00,91.40,82.80,73.80,4
+119,7/11/16,7/31/16,3,Branchville,Branchville,NJ,Crew,8.8,5,0.16,87.14,74.76,62.90,20
+120,7/11/16,7/31/16,3,Hingham,Hingham,MA,Crew,7.75,4,0.02,87.48,78.43,69.00,20
+121,7/11/16,7/31/16,3,Okanogan,Okanogan,WA,Crew,9.666666667,3,0.04,88.00,73.05,57.62,20
+122,7/11/16,7/31/16,3,Saint Ignace,Saint Ignace,MI,Crew,9.285714286,7,0.09,75.95,68.29,60.33,20
+123,7/11/16,7/31/16,3,Woodbine,Woodbine,NJ,Crew,9,2,0.15,89.10,79.10,69.62,20
+124,7/11/16,8/2/16,4,Yellowstone NP,Yellowstone Natl Park,WY,Crew,8,1,0.01,74.87,56.22,37.04,22
+125,7/11/16,8/7/16,4,Estes Park,Estes Park,CO,Crew,6.5,2,0.00,89.36,75.32,60.82,27
+126,7/11/16,8/7/16,4,Millinocket,Millinocket,ME,Crew,9.75,4,0.03,82.57,71.64,60.21,27
+127,7/11/16,8/7/16,4,Moose,Moose,WY,Crew,10,3,0.00,81.29,61.64,42.04,27
+128,7/11/16,8/7/16,4,Port Angeles,Port Angeles,WA,Crew,9.5,2,0.00,69.50,60.64,52.82,27
+129,7/11/16,8/7/16,4,Roosevelt,Roosevelt,NJ,Crew,9.4,5,0.14,71.25,76.54,66.04,27
+130,7/11/16,8/7/16,4,Yellowstone NP,Yellowstone Natl Park,WY,Crew,9,4,0.01,74.79,56.29,37.14,27
+131,7/12/16,8/5/16,4,Houston,Houston,TX,Community,10,1,0.15,96.20,87.48,78.80,24
+132,7/14/16,8/3/16,3,Denali Park,Denali Natl Park,AK,Crew,8.6,5,0.10,60.53,54.87,49.07,20
+133,7/14/16,8/5/16,4,Pittsburgh,Pittsburgh,PA,Community,8,1,0.14,86.09,76.61,67.91,22
+134,7/18/16,8/7/16,3,Broad Run,Broad Run,VA,Crew,10,4,0.00,90.14,79.52,69.48,20
+135,7/18/16,8/7/16,3,Floyd,Floyd,VA,Crew,8.75,4,0.19,84.71,75.24,65.38,20
+136,7/18/16,8/14/16,4,Copper Center,Copper Center,AK,Crew,9.75,8,0.04,67.21,58.68,50.04,27
+137,7/18/16,8/14/16,4,Port Alsworth,Port Alsworth,AK,Crew,9,1,0.02,63.75,58.79,54.82,27
+138,7/18/16,8/14/16,4,Soldotna,Soldotna,AK,Crew,8.4,5,0.12,63.92,60.62,57.46,27
+139,7/20/16,8/16/16,4,Quilcene,Quilcene,WA,Crew,10,1,0.02,77.21,64.36,51.50,27
+140,7/24/16,8/13/16,3,Kotzebue,Kotzebue,AK,Crew,10,2,0.07,64.62,56.52,49.05,20
+141,7/25/16,8/5/16,2,Redwood City,Redwood City,CA,Community,8,1,0.00,75.08,66.17,57.25,11
+142,7/25/16,8/7/16,2,Frenchtown,Frenchtown,NJ,Crew,9.5,2,0.26,84.14,74.86,66.14,13
+143,7/25/16,8/14/16,3,Grand Lake Stream,Grand Lake Stream,ME,Crew,8.571428571,7,0.10,81.62,70.62,59.14,20
+144,7/25/16,8/14/16,3,Harpers Ferry,Harpers Ferry,WV,Crew,9.5,6,0.04,88.67,78.81,68.48,20
+145,7/25/16,8/14/16,3,Quilcene,Quilcene,WA,Crew,9.666666667,3,0.00,76.90,64.52,52.00,20
+146,7/25/16,8/21/16,4,Bushkill,Bushkill,PA,Crew,9.666666667,6,0.26,85.25,75.07,65.43,27
+147,7/25/16,8/21/16,4,Crater Lake,Crater Lake,OR,Crew,9.75,4,0.00,97.29,79.18,60.54,27
+148,7/25/16,8/21/16,4,International Falls,International Falls,MN,Crew,9.333333333,3,0.06,78.07,65.54,52.46,27
+149,7/25/16,8/21/16,4,Tucson,Tucson,AZ,Crew,9,4,0.17,94.96,84.14,73.18,27
+150,7/25/16,8/21/16,4,West Glacier,Kalispell,MT,Crew,8.666666667,3,0.06,79.82,64.79,49.32,27
+151,7/27/16,8/10/16,2,Ashford,Ashford,WA,Community,10,3,0.00,77.20,65.47,53.80,14
+152,7/27/16,8/10/16,2,Sedro-Woolley,Sedro Woolley,WA,Crew,10,2,0.00,73.40,64.67,55.40,14
+153,8/3/16,8/19/16,3,Wilkes-Barre,Wilkes-Barre,PA,Community,10,1,0.11,86.18,76.53,66.53,16
+154,8/3/16,8/24/16,3,Bend,Bend,OR,Crew,9.75,4,0.00,83.45,67.35,51.55,21
+155,8/15/16,8/28/16,2,Friday Harbor,Friday Harbor,WA,Crew,9.5,2,0.00,79.50,65.36,52.14,13
+156,8/16/16,9/2/16,3,Chicago,Chicago,IL,Community,10,1,0.18,81.67,73.89,65.67,17
+157,8/17/16,8/27/16,2,Walpack,Wallpack Center,NJ,Community,8.8,10,0.06,83.18,72.00,61.36,10
+158,8/17/16,8/31/16,2,Ashford,Ashford,WA,Community,9.5,4,0.00,82.07,67.47,52.80,14
+159,8/17/16,8/31/16,2,Sedro-Woolley,Sedro Woolley,WA,Crew,10,2,0.01,75.80,65.53,55.13,14
+160,8/22/16,9/15/16,4,Brookline,Brookline,MA,Internships,10,1,0.05,79.80,72.48,64.72,24
+161,8/22/16,9/16/16,4,New York,New York,NY,Community,8.333333333,3,0.05,84.00,76.46,68.35,25
+162,8/24/16,9/16/16,4,New York,New York,NY,Community,7,2,0.04,84.21,76.83,68.88,23
+163,8/29/16,9/16/16,3,Daviston,Daviston,AL,Leader Crew,10,1,0.02,93.21,81.74,70.32,18
+164,8/29/16,9/24/16,4,Patuxent River,Patuxent River,MD,Internships,9,1,0.16,83.19,75.11,67.74,26
+165,9/5/16,9/30/16,4,Estes Park,Estes Park,CO,Leader Crew,10,1,0.00,78.58,64.77,50.31,25
+166,9/12/16,10/7/16,4,Washington,Washington,DC,Community,8,1,0.10,78.23,72.04,65.42,25
+167,9/19/16,10/2/16,2,Cordova,Cordova,AK,Leader Crew,10,1,0.57,53.93,45.29,36.93,13
+168,9/24/16,9/24/16,0,Chicago,Chicago,IL,Community,9.6,5,0.00,74.00,70.00,66.00,0
+169,10/9/16,10/29/16,3,Avalon,Avalon,CA,Corps,10,1,0.01,72.76,66.05,59.90,20
+170,10/10/16,11/4/16,4,McLean,McLean,VA,Community,10,2,0.01,71.08,61.85,52.12,25
+171,11/7/16,12/2/16,4,Hyattsville,Hyattsville,MD,Community,10,1,0.00,56.81,45.92,35.00,25
+172,3/6/17,3/29/17,4,Moab,Moab,UT,Internships,6,1,0.00,69.08,53.50,37.54,23
+173,3/12/17,3/18/17,1,Moose,Moose,WY,Internships,9.428571429,7,0.00,47.14,38.43,29.29,6
+174,3/12/17,3/18/17,1,Seward,Seward,AK,Internships,9.5,4,0.00,26.43,20.14,14.00,6
+175,4/2/17,4/28/17,4,Georgetown,Georgetown,CA,Leader Crew,8,1,0.24,61.74,53.93,45.67,26
+176,4/3/17,4/25/17,4,Pittsburgh,Pittsburgh,PA,Internships,9,2,0.14,67.35,57.09,47.04,22
+177,5/1/17,5/12/17,2,McLean,McLean,VA,Community,10,2,0.28,69.50,61.50,52.92,11
+178,5/8/17,5/10/17,1,Mammoth Cave,Mammoth Cave,KY,Internships,8,1,0.00,78.00,65.00,52.33,2
+179,5/8/17,5/20/17,2,Bossier City,Bossier City,LA,Internships,10,1,0.12,85.08,74.85,65.38,12
+180,5/22/17,5/31/17,2,Harkers Island,Harkers Island,NC,Internships,3,1,0.23,81.00,75.40,70.30,9
+181,6/4/17,6/12/17,2,Herkimer,Herkimer,NY,Crew,8.8,5,0.00,74.56,63.22,52.00,8
+182,6/5/17,6/23/17,3,Port Alsworth,Port Alsworth,AK,Crew,7,1,0.00,62.58,54.47,46.84,18
+183,6/5/17,7/1/17,4,Patchogue,Patchogue,NY,Internships,8,1,0.13,78.04,70.11,61.67,26
+184,6/5/17,7/2/17,4,King Salmon,King Salmon,AK,Crew,9.666666667,3,0.07,61.32,53.36,44.96,27
+185,6/11/17,7/2/17,3,Broad Run,Broad Run,VA,Crew,9.5,6,0.00,87.55,75.68,64.50,21
+186,6/12/17,7/9/17,4,Homer,Homer,AK,Crew,10,1,0.02,61.29,54.61,48.79,27
+187,6/19/17,7/17/17,4,Anchorage,Anchorage,AK,Crew,7.333333333,3,0.02,63.62,57.10,51.34,28
+188,6/26/17,7/10/17,2,North Bend,North Bend,WA,Crew,9.5,2,0.00,77.20,67.13,57.53,14
+189,6/26/17,7/21/17,4,South Holland,South Holland,IL,Community,7,1,0.16,81.62,71.23,61.27,25
+190,7/2/17,7/21/17,3,Port Angeles,Port Angeles,WA,Crew,9.285714286,7,0.00,67.45,58.05,49.85,19
+191,7/2/17,7/22/17,3,Hingham,Hingham,MA,Crew,9.333333333,6,0.12,82.29,74.71,66.62,20
+192,7/2/17,7/23/17,3,Charlestown,Charlestown,NH,Crew,8,1,0.07,81.27,70.00,58.18,21
+193,7/2/17,7/30/17,4,Kennesaw,Kennesaw,GA,Crew,9,3,0.03,90.83,80.86,70.90,28
+194,7/2/17,7/30/17,4,Winnfield,Winnfield,LA,Crew,9,3,0.01,92.03,81.55,71.38,28
+195,7/5/17,7/19/17,2,Ashford,Ashford,WA,Crew,9,4,0.00,78.80,64.13,49.40,14
+196,7/10/17,8/4/17,4,Houston,Houston,TX,Community,10,1,0.06,94.77,86.00,77.38,25
+197,7/10/17,8/4/17,4,Pittsburgh,Pittsburgh,PA,Community,5.5,2,0.24,81.96,73.08,64.96,25
+198,7/12/17,8/4/17,4,Pittsburgh,Pittsburgh,PA,Community,8,1,0.24,82.04,73.21,65.17,23
